@@ -1,12 +1,12 @@
-# Contact Management App with Charts and Maps
-This is a contact management app built using ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux. 
+# Contact App with Charts and Maps
+This is a contact app built using ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux. 
 The app includes a dashboard with charts and maps that display COVID-19 data for different countries.
 
 # Deployed Link : - 
-https://contact-management-app-teal.vercel.app/
+https://master--gilded-peony-0c38b1.netlify.app/
 
 # Pages and Functionality
-The app has two main pages:
+This app has two main pages:
 
 # Contacts
 This page allows you to manage your contacts. You can add a new contact by filling out the form, and the contact will be added to the list. You can also edit or delete an existing contact. Clicking on a contact's name will take you to the contact details page.
@@ -32,12 +32,5 @@ The following technologies were used to build this app:
 - React Router v6
 - React Query
 - Redux
-# Installation and Setup
-To run this app, follow these steps:
-
-- Clone this repository: git clone https://github.com/your-username/contact-management-app.git
-- Install the dependencies: npm install
-- Start the app: npm start
-- The app should open in your default browser at http://localhost:3000/.
 
 
