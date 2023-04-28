@@ -6,7 +6,7 @@ The app includes a dashboard with charts and maps that display COVID-19 data for
 https://master--gilded-peony-0c38b1.netlify.app/
 
 # Pages and Functionality
-The app has two main pages:
+This app has two main pages:
 
 # Contacts
 This page allows you to manage your contacts. You can add a new contact by filling out the form, and the contact will be added to the list. You can also edit or delete an existing contact. Clicking on a contact's name will take you to the contact details page.
