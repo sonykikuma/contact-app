@@ -63,14 +63,7 @@ export default function reducer(state = initialState, action) {
         localStorage.setItem("contacts", JSON.stringify(updatedContacts));
         return {
           ...state,
-          contacts: [
-            // ...state.contacts,
-            // {
-            //   id: state.contacts.length + 1,
-            //  ...action.payload
-            // },
-            ...updatedContacts,
-          ],
+          contacts: [...updatedContacts],
         };
       }
     }
