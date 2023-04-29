@@ -3,17 +3,13 @@
 This is a contact app built using ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux.
 The app includes a dashboard with charts and maps that display COVID-19 data for different countries.
 
-# Deployed Link : -
-
-https://master--gilded-peony-0c38b1.netlify.app/
-
 # Pages and Functionality
 
 This app has two main pages:
 
 # Contacts
 
-This page allows you to manage your contacts. You can add a new contact by filling out the form, and the contact will be added to the list. You can also edit or delete an existing contact. Clicking on a contact's name will take you to the contact details page.
+This page allows us to manage our contacts. We can add a new contact by filling out the form, and the contact will be added to the list. We can also edit or delete an existing contact. Clicking on a contact's name will take us to the contact details page.
 
 # Charts and Maps
 
@@ -38,3 +34,7 @@ The following technologies are used to build the app:
 - React Router v6
 - React Query
 - Redux
+
+# Deployed Link : -
+
+https://master--gilded-peony-0c38b1.netlify.app/
